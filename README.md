@@ -11,7 +11,9 @@ To reproduce the paper, please make sure you have the following:
 
 Michigan Image Reconstruction Toolbox (MIRT) installed: http://web.eecs.umich.edu/~fessler/code/index.html.  
 
-Then simply run "main.m".
+Modify paths in "pcodes_init.m" and "train_matlab.py (l8th line)" in mypcodes folder.
+
+Then run "main_recon_bcd_net_sca.m".
 
 Please contact "hongki@umich.edu" if you have any questions.  
 
