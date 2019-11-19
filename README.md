@@ -15,7 +15,5 @@ Modify paths in "pcodes_init.m" and "train_matlab.py (l8th line)" in mypcodes fo
 
 Then run "main_recon_bcd_net_sca.m".
 
-Please contact "hongki@umich.edu" if you have any questions.  
-
 Updated 11/19/2019
 
