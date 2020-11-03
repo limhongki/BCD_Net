@@ -2,7 +2,7 @@ This repository is for reproducing following paper
 about the *BCD-NET* approach to image reconstruction: 
 
 Hongki Lim, Il Yong Chun, Yuni Dewaraja, and Jeffrey Fessler:
-"Improved low-count quantitative PET reconstruction with a variational neural network."
+"Improved low-count quantitative PET reconstruction with an iterative neural network."
 [IEEE Transactions on Medical Imaging, 39(11):3512-22, Nov. 2020.](http://doi.org/10.1109/TMI.2020.2998480)
 
 [arXiv version of paper.](https://arxiv.org/abs/1906.02327)
