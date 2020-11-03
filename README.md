@@ -1,4 +1,5 @@
-This repository is for reproducing following paper: 
+This repository is for reproducing following paper
+about the *BCD-NET* approach to image reconstruction: 
 
 Hongki Lim, Il Yong Chun, Yuni Dewaraja, and Jeffrey Fessler:
 "Improved low-count quantitative PET reconstruction with a variational neural network."
