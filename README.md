@@ -14,7 +14,7 @@ To reproduce the paper, please make sure you have the following:
 Michigan Image Reconstruction Toolbox (MIRT) installed:
 http://web.eecs.umich.edu/~fessler/code/index.html.  
 
-Please download dataset via following link: 
+Please download the digital phantom dataset show in Fig. 2 via following link: 
 https://drive.google.com/open?id=1VPcpI44LBNhKSYQ9EtMC6k-vTwDwRd_r
 
 Modify paths in `pcodes_init.m` and `train_matlab.py` (l8th line) in `mypcodes` folder.
