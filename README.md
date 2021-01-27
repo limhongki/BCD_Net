@@ -14,9 +14,6 @@ To reproduce the paper, please make sure you have the following:
 Michigan Image Reconstruction Toolbox (MIRT) installed:
 http://web.eecs.umich.edu/~fessler/code/index.html.  
 
-Please download the digital phantom dataset show in Fig. 2 via following link: 
-https://drive.google.com/open?id=1VPcpI44LBNhKSYQ9EtMC6k-vTwDwRd_r
+Modify paths in `pcodes_init.m` and `train_iy.py` & `train_scnn.py` (l8th line) in `mypcodes` folder.
 
-Modify paths in `pcodes_init.m` and `train_matlab.py` (l8th line) in `mypcodes` folder.
-
-Then run `main_recon_bcd_net_sca.m`.
+Then run `main_maptorch_ctrecon_ldEst_DeltaEst.m`.
